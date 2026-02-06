@@ -11,11 +11,13 @@ This repository provides a structured introduction to **Geographically Weighted 
 Unlike traditional global regression models, GWR allows regression coefficients to vary across geographic space, enabling researchers to explore **local variations in geographic processes** that would otherwise be obscured by global averages.
 
 The materials are designed for a **50-minute advanced GIS lecture**, combining conceptual foundations with a hands-on Python-based demonstration.
+---
+### 🎥 Lecture Video
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rayford295/Tutorial_Geographically-Weighted-Regression/main/slides%20%26%20figures/GWR.png" 
-       alt="Geographically Weighted Regression (GWR) Overview" 
-       width="500">
+  <a href="https://www.youtube.com/watch?v=Hd-h4u4WzNg">
+    <img src="https://img.youtube.com/vi/Hd-h4u4WzNg/hqdefault.jpg" width="660">
+  </a>
 </p>
 
 ---
@@ -34,21 +36,14 @@ The materials are designed for a **50-minute advanced GIS lecture**, combining c
 - [🧪 Example Use Cases](#-example-use-cases)
 - [📝 Citation](#-citation)
 
-
----
-### 🎥 Lecture Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=Hd-h4u4WzNg">
-    <img src="https://img.youtube.com/vi/Hd-h4u4WzNg/hqdefault.jpg" width="660">
-  </a>
-</p>
-
-
 ---
 
 ## 📘 What is GWR?
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rayford295/Tutorial_Geographically-Weighted-Regression/main/slides%20%26%20figures/GWR.png" 
+       alt="Geographically Weighted Regression (GWR) Overview" 
+       width="500">
+</p>
 **Geographically Weighted Regression (GWR)** is a local spatial regression method that:
 
 - Estimates **location-specific regression coefficients**
