@@ -17,17 +17,17 @@ The materials are designed for a **50-minute advanced GIS lecture**, combining c
 
 ## 🧭 Table of Contents
 
-- [What is GWR?](#what-is-gwr)
-- [Key Concepts](#key-concepts)
-- [Hands-on Tutorial (Code)](#hands-on-tutorial-code)
-- [Lecture Slides and Figures](#lecture-slides-and-figures)
-- [Suggested Teaching Flow](#suggested-teaching-flow)
-- [Methodological Notes](#methodological-notes)
-- [Intended Audience](#intended-audience)
-- [Reuse and Adaptation](#reuse-and-adaptation)
-- [Recommended Resources](#recommended-resources)
-- [Example Use Cases](#example-use-cases)
-- [Citation](#citation)
+- [📘 What is GWR?](#-what-is-gwr)
+- [🧠 Key Concepts](#-key-concepts)
+- [🔬 Hands-on Tutorial (Code)](#-hands-on-tutorial-code)
+- [🧑‍🏫 Lecture Slides and Figures](#-lecture-slides-and-figures)
+- [⏱ Suggested Teaching Flow](#-suggested-teaching-flow)
+- [⚠️ Methodological Notes](#-methodological-notes)
+- [🎓 Intended Audience](#-intended-audience)
+- [🔄 Reuse and Adaptation](#-reuse-and-adaptation)
+- [📚 Recommended Resources](#-recommended-resources)
+- [🧪 Example Use Cases](#-example-use-cases)
+- [📝 Citation](#-citation)
 
 ---
 
@@ -134,7 +134,7 @@ to form a coherent lecture–demonstration sequence.
 
 ---
 
-## ⏱ Suggested Teaching Flow 
+## ⏱ Suggested Teaching Flow
 
 | Time        | Component                                 | Materials |
 |-------------|-------------------------------------------|-----------|
@@ -142,7 +142,7 @@ to form a coherent lecture–demonstration sequence.
 | 10–20 min   | Global vs. local regression (OLS vs. GWR) | Slides    |
 | 20–30 min   | Core GWR concepts (kernel, bandwidth)     | Slides    |
 | 30–45 min   | Hands-on OLS → GWR demonstration          | Notebook  |
-| 45–50 min   | Interpretation, limitations, discussion  | Slides    |
+| 45–50 min   | Interpretation, limitations, discussion   | Slides    |
 
 ---
 
@@ -202,12 +202,12 @@ Attribution is appreciated.
 
 ## 🧪 Example Use Cases
 
-| Field                 | Example Application                                 |
-|-----------------------|-----------------------------------------------------|
-| Urban Studies         | Spatially varying housing price determinants        |
-| Public Health         | Local risk factors for disease outcomes             |
-| Environmental Science | Pollutant–health associations with spatial variation|
-| Transportation        | Local drivers of congestion or accessibility        |
+| Field                 | Example Application                                  |
+|-----------------------|------------------------------------------------------|
+| Urban Studies         | Spatially varying housing price determinants         |
+| Public Health         | Local risk factors for disease outcomes              |
+| Environmental Science | Pollutant–health associations with spatial variation |
+| Transportation        | Local drivers of congestion or accessibility         |
 
 ---
 
